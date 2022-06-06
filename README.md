@@ -6,7 +6,7 @@
  
  - [**Project Manager Tool**](https://github.com/dsadovnikov/project-manager-tool) — приложение для управления задачами.
  О проекте: Приложение создано с помощью Create React App, использовались Typescript, Redux Toolkit. Drag and drop созданы с помощью react-beautiful-dnd <br />
- **Посмотреть готовый результат: https://dsadovnikov.github.io/book-search/**
+ **Посмотреть готовый результат: https://dsadovnikov.github.io/project-manager-tool/**
 
 - [**Toxin**](https://github.com/dsadovnikov/toxin) — сайт для поиска и бронирования номера в отеле.
  О проекте: Учебный проект для компании MetaLamp. Responsive вёрстка макета, выполненного в Figma. Использован компонентный подход с помощью шаблонизатора Pug.
